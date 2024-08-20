@@ -1,0 +1,139 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>JKEventos</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Linea is Creative Website Template">
+        <meta name="keywords" content="">
+        <meta name="author" content="">
+        <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet"> 
+        <link rel="shortcut icon" href="img/jkeventos.ico" type="image/x-icon">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/style.css" type="text/css"/> 
+    </head>
+    <body>
+        <div class="container-boton">
+             <a  href="https://wa.me/+593962873202?text=Buenas%20tardes.%20Deseo%20mas%20informacion%20sobre%20sus%20servicios." target="_blank"> 
+                 <img class="boton" src="img/ws.png" alt=""/>
+             </a>
+         </div>
+        <main>
+                <header>
+                         <nav>
+                            <ul id="mainmenu" class="scrollnav no-separator">
+                                <li><a href="index.php" class="active"><span>Inicio</span></a></li>
+                                <li><a href="galeria.php" class=""><span>Galeria</span></a>
+                                <ul>
+                                      <li><a href="babyshower.php" >BabyShower</a></li>
+                                      <li><a href="bodas.php">Bodas</a></li>
+                                      <li><a href="cumpleanos.php">Cumpleaños</a></li>                                      
+                                      <li><a href="quince.php">15 años</a></li>
+                                      <li><a href="bautizos.php">Bautizos</a></li>
+                                </ul>
+                                 
+                                <li><a href="contact-form.php" class=""><span>Contáctenos</span></a></li>
+                                
+                            </ul>
+                        </nav>
+                 <div class="container" style="background-size: cover;">
+                
+                    <div class="col-md-12" style="background-size: cover;">
+                        <!-- logo begin -->
+                        <div id="logo" style="background-size: cover;">
+                            <a href="index.php">
+                                <img src="img/jkeventos.jpeg" align="left">
+                            </a>
+                        </div>
+                        
+                        <!-- logo close -->
+
+                        <!-- small button begin -->
+                        <span id="menu-btn"></span>
+                        <!-- small button close -->
+
+                        <!-- mainmenu begin -->
+                       
+                    </div>
+                    <!-- mainmenu close -->
+
+                </div>
+            
+            </header>
+           
+            
+        </main>
+        
+        
+        <div class="imagenfondo" style="background-size: cover;">
+             <img src="img/52.jpeg" width="100%" height="100%" alt=""/>
+            </div>
+       
+         <br><br><br><br>
+          
+         <div class="text" align="center">
+             
+             <h1>BabyShower</h1>
+             
+        </div>
+         
+            <p class="text2" align="center">
+                Les damos nuestras felicitaciones por su nuevo integrante en la familia y que las bendiciones no paren de llover en su hogar.
+
+            </p>
+         <br><br><br><br><br><br>
+        
+        <br><br><br><br><br><br>
+        
+        <div class="container2" align="center">
+            
+            <img src="img/bs/6.jpeg" width="40%" height="70%" alt=""/>
+            <img src="img/bs/23.jpeg" width="40%" height="70%" alt=""/>
+            <img src="img/bs/29.jpeg" width="40%" height="70%" alt=""/>
+            <img src="img/bs/30.jpeg" width="40%" height="70%" alt=""/>
+            <img src="img/bs/31.jpeg" width="40%" height="70%" alt=""/>
+            <img src="img/bs/32.jpeg" width="40%" height="70%" alt=""/>
+            <img src="img/bs/34.jpeg" width="40%" height="70%" alt=""/>
+            <img src="img/bs/35.jpeg" width="40%" height="70%" alt=""/>
+            <img src="img/bs/36.jpeg" width="40%" height="70%" alt=""/>
+            <img src="img/bs/37.jpeg" width="40%" height="70%" alt=""/>
+            <img src="img/bs/38.jpeg" width="40%" height="70%" alt=""/>
+            <img src="img/bs/39.jpeg" width="40%" height="70%" alt=""/>
+            <img src="img/bs/40.jpeg" width="40%" height="70%" alt=""/>
+            <br><br><br><br>
+         
+         </div>
+        <footer>
+            <div class="subfooter" style="background-size: cover;">
+                <div class="container text-center" style="background-size: cover;">
+                    <div class="row" style="background-size: cover;">
+                        <div class="col-md-12" style="background-size: cover;">
+                            <div align="left" class="info-pie" style="background-size: cover;">
+                                <span><i class="fa fa-map-marker fa-lg"></i>Quito-Sur, Ecuador</span>
+                                <span><i class="fa fa-phone fa-lg"></i></span>
+                                <span><i class="fa fa-whatsapp fa-lg"></i>+593962873202</span>
+                                <span><i class="fa fa-envelope-o fa-lg"></i><a href="mailto:jkeventos.ventas@gmail.com">jkeventos.ventas@gmail.com</a></span>            
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </footer>
+        <!-- footer close -->
+
+        <a href="#" id="back-to-top" class="show hide"></a>
+        <div id="preloader" style="background-size: cover; display: none;">
+            <div class="s1" style="background-size: cover;">
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    
+
+</body>
+ </html>
+   
+
+
+
+
